@@ -1,7 +1,6 @@
 # 🔍 Browser Extension Audit & Cleanup
 
-## 🗓️ Date
-July 3, 2025
+
 
 ## 🧠 Objective
 Perform a security and performance audit of all browser extensions to:
